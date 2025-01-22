@@ -1,0 +1,24 @@
+{
+  "name": "test_branch",
+  "version": "1.0.0",
+  "description": "ทดสอบ branch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/patipark/test_branch.git"
+  },
+  "keywords": [
+    "git",
+    "branch",
+    "test"
+  ],
+  "author": "Patipark Sopha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patipark/test_branch/issues"
+  },
+  "homepage": "https://github.com/patipark/test_branch#readme"
+}
