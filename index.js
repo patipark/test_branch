@@ -1,6 +1,12 @@
-const express = require('express')
+import { View, Text } from 'react-native'
+import React from 'react'
 
-const app = express();
-const port = 3000;
+const index = () => {
+  return (
+    <View>
+      <Text>index</Text>
+    </View>
+  )
+}
 
-
+export default index;
