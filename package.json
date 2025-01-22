@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/patipark/test_branch/issues"
   },
-  "homepage": "https://github.com/patipark/test_branch#readme"
+  "homepage": "https://github.com/patipark/test_branch#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
